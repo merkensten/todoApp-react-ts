@@ -2,5 +2,7 @@ import React from "react";
 import "./HomePage.css";
 
 export const HomePage = () => {
-  return <div></div>;
+  return <div>
+    <h1>Home Page</h1>
+  </div>;
 };

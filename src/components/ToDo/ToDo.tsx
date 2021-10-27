@@ -3,8 +3,8 @@ import './ToDo.css'
 
 export const ToDo = () => {
     return (
-        <div>
-            
-        </div>
+        <>
+            <h1>ToDo Component</h1>
+        </>
     )
 }
